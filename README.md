@@ -1,6 +1,6 @@
 # pBuffer
 
-#Jean Barros Correa
+# Jean Barros Correa
 
 Agenda
 Faça uma agenda com o seguinte menu:
